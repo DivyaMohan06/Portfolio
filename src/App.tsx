@@ -597,7 +597,7 @@ function App() {
               <p className="mb-3 text-sm font-semibold uppercase tracking-[0.24em] text-pine dark:text-coral">{t.resume.eyebrow}</p>
               <h2 className="text-3xl font-semibold sm:text-4xl">{t.resume.title}</h2>
               <p className="mx-auto mt-4 max-w-2xl leading-7 text-slate-600 dark:text-slate-300">{t.resume.text}</p>
-              <a href="#" className="mt-7 inline-flex items-center justify-center gap-2 rounded-full bg-ink px-6 py-3 text-sm font-semibold text-white transition hover:bg-pine dark:bg-white dark:text-ink">
+              <a href="/divya-resume.pdf" download className="mt-7 inline-flex items-center justify-center gap-2 rounded-full bg-ink px-6 py-3 text-sm font-semibold text-white transition hover:bg-pine dark:bg-white dark:text-ink">
                 <Download size={18} /> {t.resume.button}
               </a>
             </motion.div>
