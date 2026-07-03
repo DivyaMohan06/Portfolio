@@ -84,16 +84,16 @@ const content = {
     },
     projects: {
       eyebrow: "Projects",
-      title: "Focused case-study experience.",
-      description: "Current project experience is kept concise and aligned with Divya's resume.",
-      cta: "Discuss project",
+      title: "Fresher portfolio focus.",
+      description: "Project experience is presented honestly while Divya continues learning and building practical analytics work.",
+      cta: "Connect with Divya",
       items: [
         {
-          title: "Stimulated Case Study: HR Layoff Strategy",
+          title: "Fresher: Business Analyst & Data Analyst",
           summary:
-            "Analyzed employee job performance data, compared departments, and proposed a structured layoff approach with ethical considerations and salary recommendations.",
+            "Currently developing a foundation in Excel, Power BI, SQL basics, business analysis, dashboard storytelling, and stakeholder-aware problem solving.",
           image: "/practice-data-dashboard.png",
-          tags: ["Case Study", "Business Analysis", "Excel"],
+          tags: ["Fresher", "Excel", "Power BI"],
         },
       ],
     },
@@ -203,16 +203,16 @@ const content = {
     },
     projects: {
       eyebrow: "Projets",
-      title: "Expérience ciblée en étude de cas.",
-      description: "L'expérience projet actuelle reste concise et alignée avec le CV de Divya.",
-      cta: "Discuter du projet",
+      title: "Orientation portfolio débutante.",
+      description: "L'expérience projet est présentée de manière honnête pendant que Divya continue d'apprendre et de construire des travaux analytiques pratiques.",
+      cta: "Contacter Divya",
       items: [
         {
-          title: "Étude de cas simulée : stratégie de licenciement RH",
+          title: "Débutante : Business Analyst et Data Analyst",
           summary:
-            "Analyse des données de performance des employés, comparaison entre départements et proposition d'une approche structurée avec considérations éthiques et recommandations salariales.",
+            "Développe actuellement des bases en Excel, Power BI, notions SQL, analyse métier, storytelling avec tableaux de bord et résolution de problèmes orientée parties prenantes.",
           image: "/practice-data-dashboard.png",
-          tags: ["Étude de cas", "Analyse métier", "Excel"],
+          tags: ["Débutante", "Excel", "Power BI"],
         },
       ],
     },
