@@ -36,7 +36,7 @@ const content = {
       note: "You can continue in English or view the full portfolio in French.",
     },
     hero: {
-      badge: "Aspiring Business Analyst & Data Analyst",
+      badge: "Aspiring Business Analyst | Data Analyst",
       title: "Turning messy data into clear business decisions.",
       text: "I am Divya Mohanraju, an undergraduate student building practical skills in business analysis, Excel, Power BI, dashboard design, and data-driven problem solving.",
       primary: "View projects",
