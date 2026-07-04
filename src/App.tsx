@@ -45,7 +45,7 @@ const content = {
       snapshotText: "Survey insights visualized with dashboard charts and KPI cards.",
     },
     metrics: [
-      ["1", "Dashboard created"],
+      ["2", "Dashboards created"],
       ["2", "Core tools: Excel & Power BI"],
       ["100%", "Eager to learn more"],
     ],
@@ -99,7 +99,7 @@ const content = {
           title: "Netflix Content Strategy Analysis",
           summary:
             "Analyzed Netflix's global content catalog using Power BI and DAX. Built interactive dashboards to identify content trends, genre popularity, geographic distribution, and strategic opportunities. Provided business recommendations based on data-driven insights.",
-          image: "/practice-data-dashboard.png",
+          image: "/netflix-content-analysis.png",
           tags: ["Power BI", "DAX", "Power Query", "Data Cleaning", "Data Visualization", "Business Analysis"],
         },
       ],
@@ -171,7 +171,7 @@ const content = {
       snapshotText: "Des résultats d'enquête visualisés avec des graphiques et des cartes KPI.",
     },
     metrics: [
-      ["1", "Tableau de bord créé"],
+      ["2", "Tableaux de bord créés"],
       ["2", "Outils clés : Excel et Power BI"],
       ["100%", "Envie d'apprendre davantage"],
     ],
@@ -225,7 +225,7 @@ const content = {
           title: "Analyse de stratégie de contenu Netflix",
           summary:
             "Analyse du catalogue mondial de Netflix avec Power BI et DAX. Création de tableaux de bord interactifs pour identifier les tendances de contenu, la popularité des genres, la répartition géographique et les opportunités stratégiques. Recommandations métier fondées sur des insights data-driven.",
-          image: "/practice-data-dashboard.png",
+          image: "/netflix-content-analysis.png",
           tags: ["Power BI", "DAX", "Power Query", "Nettoyage des données", "Visualisation des données", "Analyse métier"],
         },
       ],
