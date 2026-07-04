@@ -95,6 +95,13 @@ const content = {
           image: "/practice-data-dashboard.png",
           tags: ["Fresher", "Excel", "Power BI"],
         },
+        {
+          title: "Netflix Content Strategy Analysis",
+          summary:
+            "Analyzed Netflix's global content catalog using Power BI and DAX. Built interactive dashboards to identify content trends, genre popularity, geographic distribution, and strategic opportunities. Provided business recommendations based on data-driven insights.",
+          image: "/practice-data-dashboard.png",
+          tags: ["Power BI", "DAX", "Power Query", "Data Cleaning", "Data Visualization", "Business Analysis"],
+        },
       ],
     },
     experience: {
@@ -213,6 +220,13 @@ const content = {
             "Développe actuellement des bases en Excel, Power BI, notions SQL, analyse métier, storytelling avec tableaux de bord et résolution de problèmes orientée parties prenantes.",
           image: "/practice-data-dashboard.png",
           tags: ["Débutante", "Excel", "Power BI"],
+        },
+        {
+          title: "Analyse de stratégie de contenu Netflix",
+          summary:
+            "Analyse du catalogue mondial de Netflix avec Power BI et DAX. Création de tableaux de bord interactifs pour identifier les tendances de contenu, la popularité des genres, la répartition géographique et les opportunités stratégiques. Recommandations métier fondées sur des insights data-driven.",
+          image: "/practice-data-dashboard.png",
+          tags: ["Power BI", "DAX", "Power Query", "Nettoyage des données", "Visualisation des données", "Analyse métier"],
         },
       ],
     },
